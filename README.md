@@ -1,9 +1,6 @@
 # Portfolio Website
 
 A modern, responsive single-page portfolio website built with HTML, CSS, and JavaScript, containerized with Docker and served via Nginx.
-
-!(Screenshot.png)
-
 ---
 
 ## ✨ Features
