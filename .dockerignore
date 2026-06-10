@@ -1,29 +1,18 @@
-# Git
 .git
 .gitignore
-
-# Documentation
 README.md
 LICENSE
 *.md
-
-# Docker
 Dockerfile
 .dockerignore
 docker-compose*.yml
-
-# IDE
 .vscode/
 .idea/
 *.swp
 *.swo
 *~
-
-# OS
 .DS_Store
 Thumbs.db
-
-# Misc
 node_modules/
 .env
 .env.*

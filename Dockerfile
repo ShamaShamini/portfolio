@@ -13,6 +13,8 @@ COPY --from=builder /app/nginx.conf /etc/nginx/conf.d/default.conf
 COPY --from=builder /app/index.html /usr/share/nginx/html/
 COPY --from=builder /app/css/ /usr/share/nginx/html/css/
 COPY --from=builder /app/js/ /usr/share/nginx/html/js/
+COPY --from=builder /app/js/ /usr/share/nginx/html/js/
+COPY --from=builder /app/profile.png /usr/share/nginx/html/profile.png
 
 RUN chown -R nginx:nginx /usr/share/nginx/html && \
     chown -R nginx:nginx /var/cache/nginx && \
