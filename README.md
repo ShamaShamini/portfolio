@@ -2,7 +2,7 @@
 
 A modern, responsive single-page portfolio website built with HTML, CSS, and JavaScript, containerized with Docker and served via Nginx.
 
-![Portfolio Screenshot](Screenshot.png)
+!(Screenshot.png)
 
 ---
 
