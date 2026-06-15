@@ -13,6 +13,9 @@ A modern, responsive single-page portfolio website built with HTML, CSS, and Jav
 * **Performance Optimized:** Configured for speed with Gzip compression and aggressive static asset caching.
 * **Production-Ready Docker:** Utilizes a secure multi-stage build, runs as a non-root user, and includes health checks.
 
+  
+![Portfolio Screenshot](Screenshot.jpg)
+
 ---
 
 ## 🛠️ Tech Stack
